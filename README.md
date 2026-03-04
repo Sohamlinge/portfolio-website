@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Soham Linge - Portfolio Website
 
-# Run and deploy your AI Studio app
+This is my personal portfolio website built using modern web technologies.  
+It showcases my projects, skills, experience, and technical expertise.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/c9d6189a-a3f1-4b79-99f8-d046bc35a5fe
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 🚀 Live Website
+<img width="2874" height="1457" alt="image" src="https://github.com/user-attachments/assets/2c34c5ed-07b1-4f85-8dbf-dad4a11cc98e" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- shadcn/ui
+- Lucide Icons
+
+---
+
+## 📂 Features
+
+- Responsive design (Mobile, Tablet, Desktop)
+- Dark & Light Mode support
+- Smooth and subtle animations
+- Modern navy blue + white UI theme
+- Experience timeline
+- Projects showcase
+- Achievements section
+- Downloadable resume
+- Performance optimized
+
+---
+
+## 📸 Sections Included
+
+- Hero Section
+- Internships
+- Projects
+- Achievements
+- Skills
+- Education
+- Additional Information
+- Contact
+
+---
