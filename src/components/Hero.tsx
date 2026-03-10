@@ -44,10 +44,15 @@ export default function Hero() {
               <ArrowDown className="w-4 h-4 group-hover:translate-y-1 transition-transform" />
             </button>
             
-            <button className="group px-6 py-3 bg-white/5 hover:bg-white/10 text-white border border-white/10 rounded-full font-medium flex items-center gap-2 transition-all hover:scale-105">
-              <Download className="w-4 h-4" />
-              <span>Download Resume</span>
-            </button>
+           <a
+  href="https://drive.google.com/uc?export=download&id=1W1ePaixgNbxYJpebGAbLLnGwDbw4fqHW"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="group px-6 py-3 bg-white/5 hover:bg-white/10 text-white border border-white/10 rounded-full font-medium flex items-center gap-2 transition-all hover:scale-105"
+>
+  <Download className="w-4 h-4" />
+  <span>Download Resume</span>
+</a>
           </div>
         </motion.div>
       </div>
